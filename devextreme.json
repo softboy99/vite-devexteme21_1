@@ -9,32 +9,28 @@
                 "command": "build-theme",
                 "options": {
                     "inputFile": "src/themes/metadata.base.json",
-                    "outputFile": "src/themes/generated/theme.base.css",
-                    "version": "21.1.3"
+                    "outputFile": "src/themes/generated/theme.base.css"
                 }
             },
             {
                 "command": "build-theme",
                 "options": {
                     "inputFile": "src/themes/metadata.additional.json",
-                    "outputFile": "src/themes/generated/theme.additional.css",
-                    "version": "21.1.3"
+                    "outputFile": "src/themes/generated/theme.additional.css"
                 }
             },
             {
                 "command": "export-theme-vars",
                 "options": {
                     "inputFile": "src/themes/metadata.base.json",
-                    "outputFile": "src/themes/generated/variables.base.scss",
-                    "version": "21.1.3"
+                    "outputFile": "src/themes/generated/variables.base.scss"
                 }
             },
             {
                 "command": "export-theme-vars",
                 "options": {
                     "inputFile": "src/themes/metadata.additional.json",
-                    "outputFile": "src/themes/generated/variables.additional.scss",
-                    "version": "21.1.3"
+                    "outputFile": "src/themes/generated/variables.additional.scss"
                 }
             }
         ]
