@@ -8,16 +8,16 @@
     "postinstall": "npm run build-themes"
   },
   "dependencies": {
-    "vue": "^3.1.4",
-    "vue-router": "^4.0.10",
-    "devextreme": "^21.1.4",
-    "devextreme-vue": "^21.1.4"
+    "vue": "^3.2.7",
+    "vue-router": "^4.0.11",
+    "devextreme": "^21.1.5",
+    "devextreme-vue": "^21.1.5"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^1.2.4",
-    "@vue/compiler-sfc": "^3.1.4",
-    "devextreme-cli": "^1.2.18",
-    "devextreme-themebuilder": "^21.1.4",
-    "vite": "^2.4.0"
+    "@vitejs/plugin-vue": "^1.6.0",
+    "@vue/compiler-sfc": "^3.2.7",
+    "devextreme-cli": "^1.2.21",
+    "devextreme-themebuilder": "^21.1.5",
+    "vite": "^2.5.3"
   }
 }
